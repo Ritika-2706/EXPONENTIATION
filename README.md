@@ -34,7 +34,8 @@ print(result)
 
 
 ## Output:
-![exponentiation of a number](expo1.png)
+![expo1](https://user-images.githubusercontent.com/93427238/151389152-c686f5ee-e97d-4069-853a-4159db35fc4d.PNG)
+
 
 
 ## Result:
