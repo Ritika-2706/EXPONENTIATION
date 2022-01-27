@@ -19,9 +19,22 @@ Developed by:
 RegisterNumber: 
 */
 ```
+num=int(input())
+
+exp=int(input("Exponentiation of a given number: "))
+
+result=1
+
+for i in range(1,exp+1):
+
+    result=result*num
+
+print(result)
+
+
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](expo1.png)
 
 
 ## Result:
